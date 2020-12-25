@@ -8,6 +8,7 @@
         <link>https://janmarten.name/race-condition</link>
         <atom:link href="https://janmarten.name/race-condition/feed.xml" rel="self" type="application/rss+xml"/>
         <description>De werkvloer bekeken vanuit de werknemer</description>
+        <author>Rieks Visser, Arjen Miedema, Jan-Marten de Boer</author>
         <language>nl-nl</language>
         <pubDate>Fri, 25 Dec 2020 16:50:25 +0000</pubDate>
         <lastBuildDate>Fri, 25 Dec 2020 16:50:25 +0000</lastBuildDate>
@@ -17,7 +18,7 @@
             <link>https://janmarten.name/race-condition/2020-deel-1</link>
             <guid>https://janmarten.name/race-condition/2020-deel-1</guid>
             <pubDate>Fri, 25 Dec 2020 12:23:00 +0000</pubDate>
-            <author>Jan-Marten de Boer</author>
+            <author>Rieks Visser, Arjen Miedema, Jan-Marten de Boer</author>
 
             <description>
                 <![CDATA[
